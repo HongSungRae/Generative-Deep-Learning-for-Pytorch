@@ -1,0 +1,5 @@
+pandas==1.4.1
+numpy==1.20.0
+opencv-python==4.5.3.56
+torch==1.12.1+cu116
+einops==0.4.1
