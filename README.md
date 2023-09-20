@@ -33,5 +33,7 @@
 
 ## Reference
 [1] https://github.com/davidADSP/GDL_code
+
 [2] https://github.com/pyoungkangkim/Generative-Deep-Learning-Code-in-Pytorch
+
 [3] Generative Deep Learning by _David Foster_, 2019
