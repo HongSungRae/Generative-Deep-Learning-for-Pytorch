@@ -17,7 +17,7 @@
     - O'Reilly - Generative Deep Learning 을 구비해주세요.
 - 이 레포지토리를 원하는 로컬 위치에 clone합니다.
     - ```git clone https://github.com/HongSungRae/Generative-Deep-Learning-for-Pytorch.git```
-- 가상환경을 열어서 ```requirements.txt```의 라이브러리 환경을 맞추어주세요.
+- 가상환경을 열어서 ```pip install -r requirements.txt```로 라이브러리 환경을 맞추어주세요.
     - 그렇게 특별한 library가 사용되지 않으니 그냥 로컬 환경에서 돌려도 문제 없을겁니다.
     - 단, 가용할 수 있는 GPU가 1개 이상은 있어야합니다.
 - 챕터 1,2 는 스스로 읽으면서 코딩하거나 넘어가세요
@@ -26,14 +26,12 @@
 ## 3. For who don't use Korean
 - Examples of the O'Reilly book 'Generative Deep Learning'
 - The book contatins only tensorflow codes. For pytorch users, I wrote source code using pytorch.
-- Unfortunately, this repository is not written in English. However, there is high-quality material available in English at [[2]](https://github.com/pyoungkangkim/Generative-Deep-Learning-Code-in-Pytorch), so please refer to it.
+- Unfortunately, this repository is not written in English. However, there are thousands of high-quality materials available in English at Web.
 
 ## Contact
 - sun.hong@kaist.ac.kr
 
 ## Reference
-[1] https://github.com/davidADSP/GDL_code
-
-[2] https://github.com/pyoungkangkim/Generative-Deep-Learning-Code-in-Pytorch
-
+[1] https://github.com/davidADSP/GDL_code    
+[2] https://github.com/pyoungkangkim/Generative-Deep-Learning-Code-in-Pytorch    
 [3] Generative Deep Learning by _David Foster_, 2019
